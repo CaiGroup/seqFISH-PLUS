@@ -1,5 +1,5 @@
 # seqFISH-PLUS
-seqFISH+ code....................
+This repostory contains the scripts used in processing the images and barcode calling of seqFISH+ experiment and the source data which consists of the processed data. 
 
 ## Getting Started
 * Download all the contents of the folder and add it to your Matlab path.
@@ -45,8 +45,7 @@ Free for non-commercial and academic research. The software is bound by the lice
 * Nico Pierson - Cleaning and updating code
 
 ## Contact
-* Linus (ceeng@caltech.edu)
-* Long Cai (lcai@caltech.edu)
+* Contact the corresponding author: Long Cai (lcai@caltech.edu) for any inquiry.
 
 
 
