@@ -42,10 +42,11 @@ Free for non-commercial and academic research. The software is bound by the lice
 ## Acknowledgements
 Mike Lawson - Writing and implementing code for the project
 Sheel Shah - Developing the algorithm to find the barcodes, finding dots, and much more
+Nico Pierson - Cleaning and updating code
 
 ## Contact
 Linus 
-Nico Pierson
+
 
 
 
