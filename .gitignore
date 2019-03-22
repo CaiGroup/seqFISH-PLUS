@@ -1,0 +1,14 @@
+# Ignore all .mat .tif .png .txt .zip .fig .asv ~ File endings
+*.mat
+*.tif
+*.png
+*.txt
+*.csv
+*.zip
+*.fig
+*.asv
+*~ 
+
+# Ignore the folder 'testdata'
+testdata/
+testscripts/
