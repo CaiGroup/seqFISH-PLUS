@@ -1,5 +1,5 @@
 # seqFISH-PLUS
-Give a one line description
+seqFISH+ code....................
 
 ## Getting Started
 * Download all the contents of the folder and add it to your Matlab path.
@@ -45,7 +45,8 @@ Free for non-commercial and academic research. The software is bound by the lice
 * Nico Pierson - Cleaning and updating code
 
 ## Contact
-Linus 
+Linus (ceeng@caltech.edu)
+Long Cai (lcai@caltech.edu)
 
 
 
