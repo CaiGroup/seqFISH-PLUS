@@ -11,7 +11,7 @@ seqFISH+ code....................
 * radialcenter.m by Dr. Parthasarathy, which can be downloaded [here](https://media.nature.com/original/nature-assets/nmeth/journal/v9/n7/extref/nmeth.2071-S2.zip).
 
 ## Running the Code
-* Overview of the steps for the seqFISH+ pipeline *
+*Overview of the steps for the seqFISH+ pipeline*
 ### Prerequirements
 * points spread function of a bead
 * Region of interests (ROI) holds polygon cell segmentations created from ImageJ software
@@ -45,8 +45,8 @@ Free for non-commercial and academic research. The software is bound by the lice
 * Nico Pierson - Cleaning and updating code
 
 ## Contact
-Linus (ceeng@caltech.edu)
-Long Cai (lcai@caltech.edu)
+* Linus (ceeng@caltech.edu)
+* Long Cai (lcai@caltech.edu)
 
 
 
