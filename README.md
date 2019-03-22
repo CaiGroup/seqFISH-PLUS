@@ -14,6 +14,7 @@ Give a one line description
 * Overview of the steps for the seqFISH+ pipeline *
 ### Prerequirements
 * points spread function of a bead
+* Region of interests (ROI) holds polygon cell segmentations created from ImageJ software
 * thresholding values after Preprocessing Step
 
 ### Preprocessing
