@@ -1,4 +1,4 @@
-# seqFISH-PLUS
+# seqFISH+
 This repostory contains the scripts used in processing the images and barcode calling of seqFISH+ experiment and the source data which consists of the processed data. 
 
 ## Getting Started
@@ -30,7 +30,7 @@ This repostory contains the scripts used in processing the images and barcode ca
     * i. transformPointsForward.m - apply transformation to dots
 ### Postprocessing
 * Callbarcodes_ALL_channels.m
-    * a. gene_calling.m - colocolaize all the points and recieve all the found barcodes
+    * a. gene_calling.m - colocalize all the points and recieve all the found barcodes
     * b. handle_ambiguous_barcodes.m - match points to genes and remove ambiguous barcodes
     * c. pointLocations.m – create the point locations and lists for each gene
     * d. numseeds.m – calculate the number of seeds for each point
@@ -39,8 +39,8 @@ This repostory contains the scripts used in processing the images and barcode ca
 ## License
 Free for non-commercial and academic research. The software is bound by the licensing rules of California Institute of Technology (Caltech)
 
-## Acknowledgements
-* Mike Lawson - Writing and implementing code for the project
+## Acknowledgments
+* Michael Lawson - Writing and implementing code for the project
 * Sheel Shah - Developing the algorithm to find the barcodes, finding dots, and much more
 * Nico Pierson - Cleaning and updating code
 
