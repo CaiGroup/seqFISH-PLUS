@@ -1,5 +1,5 @@
 # seqFISH+
-This repostory contains the scripts used in processing the images and barcode calling of seqFISH+ experiment and the source data which consists of the processed data. 
+This repostory contains the scripts used in processing the images and barcode calling of seqFISH+ experiment and the source data which consists of the processed data. Additional source data such as the mRNA point locations in NIH/3T3 cells are available on Zenodo at http://doi.org/10.5281/zenodo.2669683. 
 
 ## Getting Started
 * Download all the contents of the folder and add it to your Matlab path.
